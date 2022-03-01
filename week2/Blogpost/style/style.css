@@ -1,0 +1,40 @@
+*{
+    box-sizing: border-box;
+}
+
+.clear{
+    clear: both;
+}
+
+#container{ 
+    width: 1000px;
+    margin: 0 auto 0 auto;
+    font-family: 'Poppins', sans-serif;
+}
+
+#header{
+    background: silver;
+    padding: 50px;
+    margin-top: 0;
+}
+
+#main{
+    background: skyblue;
+    padding: 50px;
+    width: 700px;
+    float: left;
+}
+
+#sidebar{
+    background: peachpuff;
+    width: 300px;
+    float: left;
+}
+
+#footer{
+    padding: 50px;
+    background: peachpuff;
+}
+img{
+    float:right;
+}

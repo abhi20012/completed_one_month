@@ -1,0 +1,35 @@
+body {
+    background: url('kakashi.jpg');
+    background-position: center;
+    background-attachment: fixed;
+    -webkit-backdrop-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+
+}
+
+#container {
+    padding: 10px;
+    width: 400px;
+    color: rgb(240, 161, 161);
+    font-family: 'Poppins', sans-serif;
+    border-radius: 10px;
+}
+
+
+h1 {
+    font-size: 80px;
+    color: rgb(228, 31, 41);
+}
+
+h2 {
+    color: black;
+    background: rgb(235, 52, 61);
+    border-radius: 4px;
+}
+
+a {
+    text-decoration: none;
+    color: hsl(342, 91%, 50%);
+}
